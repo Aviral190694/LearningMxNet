@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+Julien Simon Tuts/Inception-BN-0000.params
+Julien Simon Tuts/Inception-BN-symbol.json
+Julien Simon Tuts/synset.txt
