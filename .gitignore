@@ -102,3 +102,6 @@ ENV/
 Julien Simon Tuts/Inception-BN-0000.params
 Julien Simon Tuts/Inception-BN-symbol.json
 Julien Simon Tuts/synset.txt
+MxNet Tutorial/resnet-152-0000.params
+MxNet Tutorial/resnet-152-symbol.json
+MxNet Tutorial/synset.txt
